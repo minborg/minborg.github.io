@@ -1,7 +1,0 @@
-= minborg.github.io
-Per Minborg
-
-== Github Pages Demo
-This is a test of rendering Asciidoc files on github pages
-
-link:test.adoc[Link to other page]
